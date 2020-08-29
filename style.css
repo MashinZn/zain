@@ -1,0 +1,136 @@
+
+			html{
+				background: url('https://pegede.000webhostapp.com/bg1.png');
+			}
+			body{
+				font-family: sans-serif;
+				font-weight: 100;
+				font-size: 15px;
+				
+			}
+
+			p{
+				font-family:sans-serif;
+				
+			}
+
+			#mps{
+				background-color: #000000; text-align: center; height: 40px
+			}
+
+			#canvas{
+				width: 960px;
+				margin: auto;
+				color: #fff;
+				background-color: #25242b;
+			}
+
+			#mpsh{
+				background-color: #000000;
+				text-align: center;
+				height: 40px
+			}
+
+			#header{
+				padding: 20px;
+				font-size:10px;
+			    	background: url('https://pegede.000webhostapp.com/hahah.jpg');
+			}
+
+			#header a {
+				font-size:30px;
+				text-decoration: none;
+				color: #fff;
+				
+			}
+
+			#menu{
+				background-color: #000000;
+			}
+
+			#menu ul{
+				list-style: none;
+				margin: 0px;
+				padding: 0px;
+			}
+			#menu ul input[type=text] {
+				float: right;
+				display: block;
+				color: #fff;
+				padding: 5px;
+				padding-right: 100px;
+				font-size: 15px;
+				margin: 10px;
+				background-color: #3d3d3d;
+				border-color: #000000;
+			}
+
+			#menu ul li{
+				display: inline-table;
+			}
+
+			#menu ul li:hover{
+				background-color: #3d3d3d;
+			}
+
+			#menu ul li a {
+				color: #666;
+				display: block;
+				text-decoration: none;
+				line-height: 20px;
+				padding:10px 15px;
+			}
+			#menu ul li a img {
+				display: block;
+				text-decoration: none;
+			    line-height:0px;
+				padding:0px;
+			    
+			}
+			
+
+			#isi{	
+				width: auto;
+				padding:20px;			
+				min-height: 400px;
+
+			}
+
+			#isi a{
+				display: block;
+				background-color: #666;
+				color: #fff;
+				text-decoration: none;
+				text-align: center;
+				font-size: 15px;
+				padding:10px;
+			}
+
+			#isi li{
+
+				display: inline-table;
+				padding:5px;
+			}
+			#isi li a{
+				background-color:#18171c;
+				font-size: 15px;
+				color: #fff;
+				display: block;
+				text-decoration: none;
+				min-height: 50px;
+				padding: 10px;
+			}
+
+			#isi li a:hover{
+				background-color: #3d3d3d;
+			}
+
+			#isi p{
+				padding-bottom: 30px;
+			}
+
+			#footer{
+				padding:10px;
+				background-color: #ccc;
+				color: #000;
+			}
